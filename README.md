@@ -6,7 +6,6 @@
 
 ## What is olubalance?
 
-
 ### Intro
 
 Having accumulated a considerable amount of debt a few years ago, and in need for a better way of tracking my family finances than using a spreadsheet, I decided to look into building my own solution. I had dabbled in Ruby on Rails briefly before and enjoyed it so took this opportunity to really dive in and build a full featured application. olubalance is constantly growing and I hope if you find it you'll enjoy it as much as I have enjoyed building it!
