@@ -1,4 +1,4 @@
-name: Privado Scan
+name: Privado Dockerless Scan
 on: push
     
 jobs:
