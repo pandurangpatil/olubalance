@@ -4,7 +4,6 @@
 
 ---
 
-
 ## What is olubalance?
 
 ### Intro
